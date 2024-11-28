@@ -1,0 +1,12 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+button img {
+    width: 25px;
+    height: auto;
+}
